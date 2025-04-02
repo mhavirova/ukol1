@@ -4,57 +4,55 @@ body {
     line-height: 1.7;
     font-family: 'Georgia', sans-serif;
     font-size: 20px;
-    margin: 0
-  }
+    margin: 0;
+    }
 
   h1 {
     font-size: 65px;
     text-align: center;
-    color: #3E5035;
+    color: #31402A;
     margin: 0;
     
-  }
+    }
 
   h2 {
     font-style: italic;
     color: #3E5035;
     margin: 0;
-  }
+    }
 
 .hlavicka {
     background-color: #AD9F7A;
     padding: 50px;
-}
+    }   
 
 img {
     width: 200px;
     border-radius: 8%;
     display: block;
     margin: auto;
-}
-
+    }
 
 .vzdelani,
 .kurzy,
 .zkusenosti,
 .kontakt {
     padding: 50px 50px 0 50px;
-}
+    }
 
 .zkusenosti {
     padding-bottom: 50px;
-}
+    }
 
 .vzdelani p {
     font-style: italic;
     margin: 0;
     font-size: 18px;
-}
-
+    }
 
 .menu li {
     display: inline-block;
-}
+    }
 
 .menu {
     margin: 0;
@@ -62,42 +60,40 @@ img {
     text-align: center;
     background-color: #3E5035;
     clear: both;
-    font-size: 20px;
+    font-size: 22px;
 
-}
+    }
 
 .menu a {
-    color: #E8E1E0;
+    color: #F0E8D0;
     text-decoration: none;
     display: inline-block;
     padding: 20px 40px;
     font-style: normal;
-}
+    }
 
 .menu a:hover, 
 .menu a:focus,
 .menu a:active {
     background-color: #AD9F7A;
-}
-
-
-.paticka {
-        background-color: #3E5035;
-        color: #E8E1E0;
-        text-align: center;
-        padding: 5px 0 5px 0;
     }
 
 .kontakt {
     padding-bottom: 50px;
     background-color: #AD9F7A;
-}
+    }
 
-
+.paticka {
+        background-color: #3E5035;
+        color: #F0E8D0;
+        text-align: center;
+        padding: 5px 0 5px 0;
+    }
 
 a {
     font-style: italic;
-}
+    color: #F0E8D0;
+    }
 
 
 
